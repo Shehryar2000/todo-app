@@ -20,7 +20,14 @@ A Spring MVC + JSP ToDo Manager application implementing full CRUD operations (C
 3. Access in browser: `http://localhost:9090/ToDoApp/home`
 
 ## Screenshots
+1. All Todo
 ![Home](screenshots/home.png)
+
+1. Addition of Todo
 ![Add Todo](screenshots/add.png)
+
+1. Updation of Todo
 ![Update Todo](screenshots/update.png)
+
+1. Deletion of Todo
 ![Delete Todo](screenshots/delete.png)
